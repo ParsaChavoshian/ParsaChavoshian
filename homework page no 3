@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="homework.css">
+    <a href="homeworkpageno1.html">1st page</a>
+    <br>
+    <br>
+    <a href="homeworkpageno1.html">2nd page</a>
+</head>
+<body>
+    <img src="berlin.jpg" alts="berlin wall" width="50%" height="50%">
+    <h1>This is berlin wall before people destroy it inside was berlin that belonged to west germany but around it beloned to soviet union</h1>
+    
+</body>
+</html>
