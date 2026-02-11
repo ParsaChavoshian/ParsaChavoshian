@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="homework.css">
+    <a href="homeworkpageno2.html">2nd page</a>
+    <br>
+    <br>
+    <a href="homeworkpageno3.html">3rd page</a>
+
+</head>
+<body>
+    <h1>Persepolis before destruction</h1>
+    <img src="persepolis.jpg" alts="persepolis" width="65%" height="65%">
+
+    <p1>This is persepolis in iran
+         you may have seen it before 
+         but wondered how it looked before destruction<p1>
+            <h3>short list of top 3 persian food you have to try</h3>
+        <ol>
+            <li>Koobideh</li>
+            <li>Gheimeh</li>
+            <li>ghorme sabzi</li>
+        </ol>
+</body>
+</html>
