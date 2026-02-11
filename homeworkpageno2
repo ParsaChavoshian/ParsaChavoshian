@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="homework.css">
+    <a href="homeworkpageno1.html">1st page</a>
+    <br>
+    <br>
+    <a href="homeworkpageno3.html">3rd page</a>
+</head>
+<body>
+    <img src="rome.jpeg" alts="collosseum" width="70%" height="60%">
+    <h1>This is how collosseum looked like before destruction</h1>
+    
+</body>
+</html>
